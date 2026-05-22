@@ -1,0 +1,289 @@
+{
+  "app": {
+    "name": "RuangTeduh",
+    "tagline": "Tempat Beristirahat Saat Hidup Terasa Berat",
+    "description": "Platform dukungan emosional yang aman dan menenangkan untuk berbagi perasaan, berbicara dengan teman AI, dan terhubung dengan komunitas yang suportif."
+  },
+  "nav": {
+    "home": "Beranda",
+    "chat": "Chat AI",
+    "mood": "Mood",
+    "community": "Komunitas",
+    "profile": "Profil",
+    "settings": "Pengaturan",
+    "login": "Masuk",
+    "register": "Daftar",
+    "logout": "Keluar"
+  },
+  "landing": {
+    "hero": {
+      "title": "Kamu tidak sendirian",
+      "subtitle": "RuangTeduh adalah ruang aman untuk berbagi perasaan, curhat dengan teman AI yang penuh empati, dan terhubung dengan komunitas yang suportif — tanpa takut dihakimi.",
+      "cta": "Mulai Sekarang",
+      "ctaSecondary": "Pelajari Lebih Lanjut"
+    },
+    "features": {
+      "title": "Fitur yang mendukung kesehatan mentalmu",
+      "aiChat": {
+        "title": "Teman AI yang Empati",
+        "description": "Ceritakan perasaanmu kapan saja. Teman AI kami akan mendengarkan tanpa menghakimi dan memberikan dukungan emosional."
+      },
+      "moodTracker": {
+        "title": "Lacak Moodmu",
+        "description": "Catat perasaanmu setiap hari dan lihat pola mood-mu dari waktu ke waktu."
+      },
+      "community": {
+        "title": "Komunitas Anonim",
+        "description": "Berbagi cerita dan saling mendukung dalam komunitas yang aman dan anonim."
+      },
+      "safe": {
+        "title": "Aman & Privat",
+        "description": "Privasimu adalah prioritas kami. Semua data terenkripsi dan identitasmu tetap anonim."
+      }
+    },
+    "trust": {
+      "title": "Dirancang dengan empati",
+      "description": "RuangTeduh dibuat oleh orang-orang yang peduli dengan kesehatan mental. Kami percaya bahwa setiap orang berhak memiliki ruang aman untuk mengekspresikan perasaannya."
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Selamat Datang Kembali",
+      "subtitle": "Masuk ke ruang amanmu",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Masuk",
+      "forgotPassword": "Lupa password?",
+      "noAccount": "Belum punya akun?",
+      "register": "Daftar sekarang"
+    },
+    "register": {
+      "title": "Buat Akun Baru",
+      "subtitle": "Bergabung dengan komunitas yang suportif",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Konfirmasi Password",
+      "submit": "Daftar",
+      "hasAccount": "Sudah punya akun?",
+      "login": "Masuk"
+    }
+  },
+  "onboarding": {
+    "welcome": {
+      "title": "Selamat Datang di RuangTeduh 🌿",
+      "subtitle": "Sebelum kita mulai, yuk kenalan dulu!"
+    },
+    "username": {
+      "title": "Pilih nama anonim",
+      "subtitle": "Nama ini yang akan terlihat oleh komunitas. Kamu bisa menggantinya kapan saja.",
+      "placeholder": "Contoh: BungaPagi, LangitSenja",
+      "hint": "Pilih nama yang membuatmu nyaman"
+    },
+    "avatar": {
+      "title": "Pilih emoji avatarmu",
+      "subtitle": "Ekspresikan dirimu dengan emoji yang kamu suka"
+    },
+    "complete": {
+      "title": "Kamu siap! 🎉",
+      "subtitle": "RuangTeduh sudah siap menemanimu. Ingat, kamu tidak sendirian.",
+      "cta": "Mulai Jelajahi"
+    }
+  },
+  "dashboard": {
+    "greeting": "Halo, {name} 👋",
+    "howAreYou": "Bagaimana perasaanmu hari ini?",
+    "quickActions": {
+      "title": "Apa yang ingin kamu lakukan?",
+      "chat": "Curhat dengan AI",
+      "mood": "Catat Mood",
+      "community": "Lihat Komunitas",
+      "journal": "Jurnal & Diary"
+    },
+    "recentMood": {
+      "title": "Mood Terakhir",
+      "empty": "Belum ada mood yang dicatat. Yuk mulai catat perasaanmu!"
+    },
+    "stats": {
+      "title": "Ringkasan Mingguan",
+      "moodEntries": "Catatan Mood",
+      "chatSessions": "Sesi Chat",
+      "communityPosts": "Postingan"
+    },
+    "calming": {
+      "banner": {
+        "title": "Merasa Cemas atau Lelah?",
+        "description": "Luangkan waktu sejenak untuk menenangkan pikiranmu dengan pernapasan terpandu dan suara alam yang menenangkan.",
+        "button": "Aku Ingin Menenangkan Diri"
+      }
+    }
+  },
+  "chat": {
+    "title": "Teman AI",
+    "newChat": "Chat Baru",
+    "placeholder": "Ceritakan perasaanmu...",
+    "send": "Kirim",
+    "typing": "Sedang mengetik...",
+    "sessions": {
+      "title": "Riwayat Chat",
+      "empty": "Belum ada percakapan. Mulai chat baru untuk curhat!"
+    },
+    "welcome": {
+      "title": "Halo! 👋",
+      "message": "Aku di sini untuk mendengarkan. Ceritakan apa saja yang kamu rasakan — aku tidak akan menghakimi.",
+      "suggestions": [
+        "Aku merasa sedih hari ini...",
+        "Aku butuh seseorang untuk cerita",
+        "Aku merasa cemas dan tidak tahu harus bagaimana",
+        "Aku ingin curhat tentang hari ini"
+      ]
+    },
+    "safety": {
+      "title": "Kami Peduli Keselamatanmu ❤️",
+      "message": "Sepertinya kamu sedang mengalami masa yang sangat sulit. Kamu tidak sendirian, dan ada bantuan profesional yang tersedia.",
+      "hotline": "Hubungi Into The Light: 119 ext 8",
+      "hotlineLabel": "Hotline Kesehatan Jiwa",
+      "continue": "Lanjutkan Chat"
+    }
+  },
+  "mood": {
+    "title": "Lacak Mood",
+    "today": "Bagaimana perasaanmu hari ini?",
+    "addNote": "Tambahkan catatan (opsional)",
+    "notePlaceholder": "Ceritakan lebih lanjut tentang perasaanmu...",
+    "submit": "Simpan Mood",
+    "history": {
+      "title": "Riwayat Mood",
+      "empty": "Belum ada riwayat mood. Mulai catat perasaanmu setiap hari! 🌱"
+    },
+    "emotions": {
+      "sangat_baik": "Sangat Baik",
+      "baik": "Baik",
+      "biasa": "Biasa",
+      "sedih": "Sedih",
+      "sangat_sedih": "Sangat Sedih",
+      "cemas": "Cemas",
+      "marah": "Marah",
+      "lelah": "Lelah"
+    },
+    "saved": "Mood berhasil disimpan! 🌟"
+  },
+  "journal": {
+    "title": "Jurnal & Catatan Harian",
+    "subtitle": "Ekspresikan perasaanmu dan simpan kenangan perjalanan emosionalmu secara privat.",
+    "newEntry": "Tulis Jurnal Baru",
+    "editEntry": "Edit Jurnal",
+    "back": "Kembali ke Jurnal",
+    "lastUpdated": "Terakhir diperbarui",
+    "noTitle": "Tanpa Judul",
+    "readMore": "Baca Selengkapnya",
+    "deleteConfirm": "Apakah Anda yakin ingin menghapus jurnal ini secara permanen?",
+    "guestWarning": {
+      "title": "Mode Tamu Terdeteksi",
+      "message": "Sebagai tamu, jurnal Anda disimpan secara lokal di browser ini. Daftar atau masuk untuk menyinkronkan data Anda dengan aman ke cloud."
+    },
+    "searchPlaceholder": "Cari jurnal berdasarkan judul atau konten...",
+    "empty": {
+      "title": "Belum Ada Catatan Jurnal",
+      "description": "Tulis pikiran, perasaan, atau kejadian hari ini untuk melacak kesehatan mental Anda."
+    },
+    "form": {
+      "titleLabel": "Judul Jurnal",
+      "titlePlaceholder": "Beri judul ceritamu hari ini (opsional)...",
+      "contentLabel": "Isi Jurnal",
+      "contentPlaceholder": "Tumpahkan semua perasaan, pikiran, atau ceritamu di sini...",
+      "moodLabel": "Bagaimana perasaanmu saat menulis ini?",
+      "errorEmpty": "Isi jurnal tidak boleh kosong. 🍃",
+      "errorTooLong": "Isi jurnal maksimal 5000 karakter. 🍃",
+      "saveChanges": "Simpan Perubahan",
+      "submit": "Simpan Jurnal"
+    }
+  },
+  "calming": {
+    "title": "Ruang Teduh & Relaksasi",
+    "subtitle": "Ambil napas dalam-dalam, lepaskan ketegangan, dan biarkan dirimu rileks sejenak.",
+    "tabs": {
+      "breathing": "Latihan Pernapasan",
+      "sounds": "Suara Penenang"
+    },
+    "breathing": {
+      "start": "Mulai Latihan",
+      "pause": "Jeda Latihan",
+      "ready": "Siap ketika kamu siap...",
+      "inhale": "Tarik napas...",
+      "hold": "Tahan...",
+      "exhale": "Hembuskan perlahan..."
+    },
+    "sounds": {
+      "title": "Suara Latar Penenang",
+      "description": "Sesuaikan racikan suara ambient di bawah untuk membantumu rileks.",
+      "rain": "🌧️ Suara Hujan",
+      "ambient": "🌲 Ambient Hutan & Angin",
+      "piano": "🎹 Melodi Teduh",
+      "volume": "Volume",
+      "stopAll": "Hentikan Semua Suara"
+    }
+  },
+  "community": {
+    "title": "Komunitas",
+    "newPost": "Tulis Postingan",
+    "postPlaceholder": "Berbagi cerita atau perasaanmu...",
+    "publish": "Posting",
+    "support": "Dukung",
+    "hug": "Peluk",
+    "comment": "Komentar",
+    "comments": "Komentar",
+    "commentPlaceholder": "Tulis komentar yang suportif...",
+    "submitComment": "Kirim",
+    "empty": "Belum ada postingan. Jadilah yang pertama berbagi cerita! 💬",
+    "emptyComments": "Belum ada komentar. Berikan dukunganmu! 🤗",
+    "anonymous": "Anonim",
+    "guideline": "Ingat: Kita di sini untuk saling mendukung. Mari jaga ruang ini tetap aman dan positif. 💛"
+  },
+  "profile": {
+    "title": "Profil",
+    "moodStats": "Statistik Mood",
+    "totalEntries": "Total Catatan",
+    "avgMood": "Rata-rata Mood",
+    "currentStreak": "Streak Saat Ini",
+    "savedChats": "Chat Tersimpan",
+    "memberSince": "Bergabung sejak",
+    "editProfile": "Edit Profil"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "language": "Bahasa",
+    "notifications": "Notifikasi",
+    "moodReminder": "Pengingat Mood Harian",
+    "theme": "Tema",
+    "deleteAccount": "Hapus Akun",
+    "deleteWarning": "Tindakan ini tidak dapat dibatalkan. Semua data akan dihapus secara permanen.",
+    "about": "Tentang RuangTeduh",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Edit",
+    "back": "Kembali",
+    "next": "Selanjutnya",
+    "skip": "Lewati",
+    "confirm": "Konfirmasi",
+    "error": "Terjadi kesalahan. Silakan coba lagi.",
+    "success": "Berhasil!",
+    "retry": "Coba Lagi",
+    "seeAll": "Lihat Semua",
+    "today": "Hari ini",
+    "yesterday": "Kemarin",
+    "daysAgo": "{count} hari lalu",
+    "justNow": "Baru saja"
+  },
+  "empty": {
+    "general": {
+      "title": "Belum ada apa-apa di sini",
+      "description": "Tapi tidak apa-apa, semua hal baik butuh waktu untuk dimulai 🌱"
+    }
+  }
+}

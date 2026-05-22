@@ -1,0 +1,304 @@
+{
+  "app": {
+    "name": "RuangTeduh",
+    "tagline": "A safe space for your feelings",
+    "description": "A safe and calming emotional support platform to share feelings, chat with an AI companion, and connect with a supportive community."
+  },
+  "nav": {
+    "home": "Home",
+    "chat": "AI Chat",
+    "mood": "Mood",
+    "community": "Community",
+    "profile": "Profile",
+    "settings": "Settings",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "landing": {
+    "hero": {
+      "title": "You are not alone",
+      "subtitle": "RuangTeduh is a safe space to share your feelings, talk with an empathetic AI companion, and connect with a supportive community — without fear of judgment.",
+      "cta": "Get Started",
+      "ctaSecondary": "Learn More"
+    },
+    "features": {
+      "title": "Features that support your mental health",
+      "aiChat": {
+        "title": "Empathetic AI Companion",
+        "description": "Share your feelings anytime. Our AI companion will listen without judgment and provide emotional support."
+      },
+      "moodTracker": {
+        "title": "Track Your Mood",
+        "description": "Record your feelings daily and see your mood patterns over time."
+      },
+      "community": {
+        "title": "Anonymous Community",
+        "description": "Share stories and support each other in a safe, anonymous community."
+      },
+      "safe": {
+        "title": "Safe & Private",
+        "description": "Your privacy is our priority. All data is encrypted and your identity stays anonymous."
+      }
+    },
+    "trust": {
+      "title": "Designed with empathy",
+      "description": "RuangTeduh is built by people who care about mental health. We believe everyone deserves a safe space to express their feelings."
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your safe space",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Sign In",
+      "forgotPassword": "Forgot password?",
+      "noAccount": "Don't have an account?",
+      "register": "Register now"
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Join our supportive community",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Register",
+      "hasAccount": "Already have an account?",
+      "login": "Sign in",
+      "verificationSentTitle": "Just one more step! 📨",
+      "verificationSentSubtitle": "Registration successful. We have sent a confirmation email to {email}. Please check your inbox and click the verification link before logging in.",
+      "backToLogin": "Back to Login"
+    },
+    "verified": {
+      "title": "Email Successfully Verified! 🌱",
+      "subtitle": "Thank you for verifying your account. You are now ready to begin your peaceful journey in RuangTeduh.",
+      "loading": "Verifying your account...",
+      "success": "Your account is now active and secure.",
+      "ctaOnboarding": "Continue to Onboarding",
+      "ctaDashboard": "Go to Dashboard",
+      "ctaLogin": "Sign In to Your Account"
+    }
+  },
+  "onboarding": {
+    "welcome": {
+      "title": "Welcome to RuangTeduh 🌿",
+      "subtitle": "Before we begin, let's get to know you!"
+    },
+    "username": {
+      "title": "Choose an anonymous name",
+      "subtitle": "This name will be visible to the community. You can change it anytime.",
+      "placeholder": "e.g., MorningFlower, SunsetSky",
+      "hint": "Choose a name that makes you comfortable"
+    },
+    "avatar": {
+      "title": "Choose your emoji avatar",
+      "subtitle": "Express yourself with your favorite emoji"
+    },
+    "complete": {
+      "title": "You're all set! 🎉",
+      "subtitle": "RuangTeduh is ready to accompany you. Remember, you are not alone.",
+      "cta": "Start Exploring"
+    }
+  },
+  "dashboard": {
+    "greeting": "Hello, {name} 👋",
+    "howAreYou": "How are you feeling today?",
+    "quickActions": {
+      "title": "What would you like to do?",
+      "chat": "Chat with AI",
+      "mood": "Log Mood",
+      "community": "View Community",
+      "journal": "Write Journal"
+    },
+    "recentMood": {
+      "title": "Recent Moods",
+      "empty": "No moods recorded yet. Start tracking your feelings!"
+    },
+    "stats": {
+      "title": "Weekly Summary",
+      "moodEntries": "Mood Entries",
+      "chatSessions": "Chat Sessions",
+      "communityPosts": "Posts"
+    },
+    "calming": {
+      "banner": {
+        "title": "Feeling Anxious or Tired?",
+        "description": "Take a moment to calm your mind with guided breathing and soothing natural sounds.",
+        "button": "I Want to Calm Down"
+      }
+    }
+  },
+  "chat": {
+    "title": "AI Companion",
+    "newChat": "New Chat",
+    "placeholder": "Share your feelings...",
+    "send": "Send",
+    "typing": "Typing...",
+    "sessions": {
+      "title": "Chat History",
+      "empty": "No conversations yet. Start a new chat!"
+    },
+    "welcome": {
+      "title": "Hello! 👋",
+      "message": "I'm here to listen. Share anything you're feeling — I won't judge.",
+      "suggestions": [
+        "I'm feeling sad today...",
+        "I need someone to talk to",
+        "I'm feeling anxious and don't know what to do",
+        "I want to talk about my day"
+      ]
+    },
+    "safety": {
+      "title": "We Care About Your Safety ❤️",
+      "message": "It sounds like you're going through a very difficult time. You are not alone, and professional help is available.",
+      "hotline": "Call Into The Light: 119 ext 8",
+      "hotlineLabel": "Mental Health Hotline",
+      "continue": "Continue Chat"
+    }
+  },
+  "mood": {
+    "title": "Track Mood",
+    "today": "How are you feeling today?",
+    "addNote": "Add a note (optional)",
+    "notePlaceholder": "Tell us more about how you're feeling...",
+    "submit": "Save Mood",
+    "history": {
+      "title": "Mood History",
+      "empty": "No mood history yet. Start tracking your feelings daily! 🌱"
+    },
+    "emotions": {
+      "sangat_baik": "Great",
+      "baik": "Good",
+      "biasa": "Okay",
+      "sedih": "Sad",
+      "sangat_sedih": "Very Sad",
+      "cemas": "Anxious",
+      "marah": "Angry",
+      "lelah": "Tired"
+    },
+    "saved": "Mood saved successfully! 🌟"
+  },
+  "community": {
+    "title": "Community",
+    "newPost": "Write Post",
+    "postPlaceholder": "Share your story or feelings...",
+    "publish": "Post",
+    "support": "Support",
+    "hug": "Hug",
+    "comment": "Comment",
+    "comments": "Comments",
+    "commentPlaceholder": "Write a supportive comment...",
+    "submitComment": "Send",
+    "empty": "No posts yet. Be the first to share! 💬",
+    "emptyComments": "No comments yet. Show your support! 🤗",
+    "anonymous": "Anonymous",
+    "guideline": "Remember: We're here to support each other. Let's keep this space safe and positive. 💛"
+  },
+  "profile": {
+    "title": "Profile",
+    "moodStats": "Mood Statistics",
+    "totalEntries": "Total Entries",
+    "avgMood": "Average Mood",
+    "currentStreak": "Current Streak",
+    "savedChats": "Saved Chats",
+    "memberSince": "Member since",
+    "editProfile": "Edit Profile"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "notifications": "Notifications",
+    "moodReminder": "Daily Mood Reminder",
+    "theme": "Theme",
+    "deleteAccount": "Delete Account",
+    "deleteWarning": "This action cannot be undone. All data will be permanently deleted.",
+    "about": "About RuangTeduh",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "skip": "Skip",
+    "confirm": "Confirm",
+    "error": "Something went wrong. Please try again.",
+    "success": "Success!",
+    "retry": "Retry",
+    "seeAll": "See All",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "daysAgo": "{count} days ago",
+    "justNow": "Just now"
+  },
+  "journal": {
+    "title": "Journal & Diary",
+    "subtitle": "A private space to express your thoughts and reflect on yourself.",
+    "newEntry": "Write New Journal",
+    "editEntry": "Edit Journal",
+    "searchPlaceholder": "Search journals by title or content...",
+    "empty": {
+      "title": "Your journal is empty",
+      "description": "Journaling can help relieve anxiety and understand your feelings. Start writing your first entry today! 🌱"
+    },
+    "form": {
+      "titleLabel": "Title (optional)",
+      "titlePlaceholder": "Give a title for your story today...",
+      "contentLabel": "How was your day today?",
+      "contentPlaceholder": "Pour all your thoughts, feelings, or events of today freely here...",
+      "moodLabel": "Link with Mood (optional)",
+      "submit": "Save Journal",
+      "saveChanges": "Save Changes",
+      "errorEmpty": "Journal content cannot be empty. 🍃",
+      "errorTooLong": "Journal content cannot exceed 5000 characters. 🍃"
+    },
+    "guestWarning": {
+      "title": "Guest Mode Active ⚠️",
+      "message": "Your journals are only saved locally in this browser since you are logged in as a Guest. If you clear browser cache, your journals will be lost. Please register or login to save your journals permanently in the cloud."
+    },
+    "saved": "Journal saved successfully! ✍️",
+    "deleted": "Journal deleted successfully.",
+    "deleteConfirm": "Are you sure you want to permanently delete this journal entry?",
+    "readMore": "Read More",
+    "deleteButton": "Delete Journal",
+    "back": "Back to Journal",
+    "noTitle": "Untitled",
+    "lastUpdated": "Last updated"
+  },
+  "calming": {
+    "title": "Calming & Relaxation Space",
+    "subtitle": "Take a deep breath, release tension, and let yourself relax for a moment.",
+    "tabs": {
+      "breathing": "Breathing Exercise",
+      "sounds": "Calming Sounds"
+    },
+    "breathing": {
+      "start": "Start Exercise",
+      "pause": "Pause Exercise",
+      "ready": "Ready when you are...",
+      "inhale": "Inhale...",
+      "hold": "Hold...",
+      "exhale": "Exhale slowly..."
+    },
+    "sounds": {
+      "title": "Calming Soundscapes",
+      "description": "Customize your ambient sound mix below to help you drift into relaxation.",
+      "rain": "🌧️ Rain Sound",
+      "ambient": "🌲 Forest & Wind Ambient",
+      "piano": "🎹 Calming Melody",
+      "volume": "Volume",
+      "stopAll": "Stop All Sounds"
+    }
+  },
+  "empty": {
+    "general": {
+      "title": "Nothing here yet",
+      "description": "But that's okay, all good things take time to begin 🌱"
+    }
+  }
+}
