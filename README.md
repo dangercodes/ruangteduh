@@ -1,6 +1,6 @@
-# 🌙 RuangTeduh
+# 🌿 RuangTeduh
 
-> “Tak semua rasa harus dipendam sendiri.”
+> “Tempat Beristirahat Saat Hidup Terasa Berat”
 
 RuangTeduh adalah aplikasi emotional support & mental wellness berbasis AI yang membantu pengguna mengekspresikan perasaan, mencatat mood, menulis jurnal, dan mendapatkan ruang aman untuk bercerita secara anonim.
 
