@@ -2,6 +2,7 @@
   <!-- Floating Mood Button -->
   <Teleport to="body">
     <button
+      v-if="showButton"
       @click="isOpen = true"
       class="fixed bottom-20 right-4 md:bottom-6 md:right-6 z-40 w-14 h-14 cursor-pointer rounded-full gradient-primary text-white shadow-float flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-glow-primary active:scale-95"
       :title="$t('dashboard.quickActions.mood')"
@@ -29,7 +30,7 @@
         >
           <div
             v-if="isOpen"
-            class="relative w-full max-w-sm bg-white rounded-t-3xl sm:rounded-3xl shadow-float p-6 space-y-5 z-10"
+            class="relative w-full max-w-sm bg-white rounded-t-3xl sm:rounded-3xl shadow-float p-6 -bottom-5 space-y-5 z-10"
           >
             <!-- Close button -->
             <button
@@ -74,6 +75,10 @@
 </template>
 <script setup lang="ts">
     import type { MoodType } from '~/types'
+    
+    const route = useRoute()
+    const showButton = computed(() => !route.meta.hideFloatingMood)
+
     const isOpen = ref(false)
     const selectedMood = ref<MoodType | null>(null)
     const note = ref('')
@@ -108,5 +113,10 @@
         saved.value = false
         }, 200)
     }
+    })
+
+    // Close modal on route change
+    watch(() => route.path, () => {
+      isOpen.value = false
     })
 </script>

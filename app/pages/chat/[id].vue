@@ -124,6 +124,7 @@
   definePageMeta({
     layout: 'default',
     middleware: ['auth'],
+    hideFloatingMood: true,
   })
   useHead({
     title: 'Chat — RuangTeduh',
